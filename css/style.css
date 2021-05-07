@@ -6,8 +6,8 @@
 }
 
 ::selection {
-  color: black;
-  background: yellow;
+  color: rgb(0, 0, 0);
+  background: rgb(116, 204, 255);
 }
 
 mark {
@@ -140,7 +140,7 @@ mark:hover {
 
 .first-btn a:hover {
   text-decoration: none;
-  color: #000;
+  color: rgb(0, 0, 0);
 }
 
 .second-btn a {
@@ -385,11 +385,13 @@ ul {
 }
 
 .faq-accordion .card-title a {
-  color: #252930;
+  color: var(--primary-color);
+  transition: all ease-in-out 0.3s;
 }
 
 .faq-accordion .card-title a:hover {
-  text-decoration: none;
+  font-size: 1.01rem;
+  text-shadow: 0.3px 0.3px #000000;
 }
 
 .faq-accordion .card-toggle .svg-inline--fa {

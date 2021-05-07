@@ -1,0 +1,28 @@
+.social-link .github {
+  color: black;
+}
+.social-link .linkedin {
+}
+.social-link .envelope {
+  color: rgb(253, 45, 45);
+}
+.dark .social-link .github {
+  color: white;
+}
+.dark .social-link .linkedin {
+  color: rgb(255, 255, 255);
+}
+.dark .social-link .envelope {
+  color: rgb(255, 255, 255);
+}
+.card-header {
+  color: var(--primary-color);
+}
+
+@media only screen and (max-width: 784px) {
+  .faq-accordion .card-title {
+    font-size: 0.85rem;
+    font-weight: 500;
+    position: relative;
+  }
+}

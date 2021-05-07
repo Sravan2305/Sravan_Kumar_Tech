@@ -27,11 +27,13 @@
 }
 
 .button.primary-button:hover {
-  background: whitesmoke;
+  background: white;
   background-clip: padding-box;
   color: black;
 }
-
+.button.primary-button:hover a {
+  color: black;
+}
 .button.primary-button::after,
 .button.secondary-button::after {
   position: absolute;
@@ -56,7 +58,9 @@
   color: whitesmoke;
   box-shadow: var(--box-shadow);
 }
-
+.button.secondary-button:hover a {
+  color: whitesmoke;
+}
 p.para {
   color: var(--text-color);
   font: normal 500 16px/ 25px var(--roboto);
