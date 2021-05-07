@@ -26,3 +26,15 @@
     position: relative;
   }
 }
+.project-link {
+  text-decoration: none;
+  color: var(--primary-color);
+  text-transform: uppercase;
+  /* font-family: italic; */
+}
+.cgpa {
+  color: var(--primary-color);
+  font-weight: 400;
+  font-size: 1.05rem;
+  letter-spacing: 1px;
+}
