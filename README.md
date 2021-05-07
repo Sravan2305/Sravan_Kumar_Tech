@@ -9,12 +9,10 @@
   </a>
 </p>
 
-### 🏠 [homepage](https://alokraj.tech)
-
 ## install
 
 ```sh
-git clone https://github.com/alok722/portfolio.git
+https://github.com/Sravan2305/Sravan_Kumar_Tech.git
 ```
 
 ## usage
@@ -29,10 +27,9 @@ a webpage to showcase my experience, education, skill-set, projects, certificate
 
 ## 👤 author
 
- **alok raj (alokr417@gmail.com)**
+ **Sravan Kumar**
 
-* website: https://alokraj.tech/
-* linkedin: [@alok722](https://linkedin.com/in/alok722)
+* linkedin: [@sravankumar23](https://www.linkedin.com/in/sravankumar23/)
 
 ## 🚀 future scope
 
@@ -44,6 +41,6 @@ give a ⭐️ if you are using this template for your webpage.
 
 ## 📝 license
 
-This project is [MIT](https://github.com/alok722/portfolio/blob/master/LICENSE) licensed.
+This project is [MIT] licensed.
 
 ***
