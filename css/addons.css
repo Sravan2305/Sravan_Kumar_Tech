@@ -1,22 +1,29 @@
-.social-link .github {
+.github {
   color: black;
 }
-.social-link .linkedin {
+.linkedin {
+  color: var(--primary-color);
 }
-.social-link .envelope {
+.envelope {
   color: rgb(253, 45, 45);
 }
-.dark .social-link .github {
+.dark .github {
   color: white;
 }
-.dark .social-link .linkedin {
+.dark .linkedin {
   color: rgb(255, 255, 255);
 }
-.dark .social-link .envelope {
+.dark .envelope {
   color: rgb(255, 255, 255);
 }
 .card-header {
   color: var(--primary-color);
+}
+
+.github:hover,
+.linkedin:hover,
+.envelope:hover {
+  opacity: 0.5;
 }
 
 @media only screen and (max-width: 784px) {

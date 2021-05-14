@@ -7,7 +7,7 @@
 
 ::selection {
   color: rgb(0, 0, 0);
-  background: rgb(116, 204, 255);
+  background: rgb(148, 255, 116);
 }
 
 mark {
@@ -28,7 +28,7 @@ mark:hover {
 
 /* width */
 ::-webkit-scrollbar {
-  width: 12x;
+  width: 12px;
 }
 
 /* Track */

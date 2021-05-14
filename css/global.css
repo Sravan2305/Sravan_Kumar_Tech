@@ -24,6 +24,7 @@
   color: whitesmoke;
   transition: background 0.6s ease;
   box-shadow: var(--box-shadow);
+  transition: all ease-in-out 0.4s;
 }
 
 .button.primary-button:hover {
@@ -32,6 +33,7 @@
   color: black;
 }
 .button.primary-button:hover a {
+  transition: all ease-in-out 4s;
   color: black;
 }
 .button.primary-button::after,
